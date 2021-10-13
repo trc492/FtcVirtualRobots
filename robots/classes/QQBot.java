@@ -3,7 +3,7 @@ package FtcVirtualRobots.robots.classes;
 import com.qualcomm.robotcore.hardware.*;
 import com.qualcomm.robotcore.hardware.configuration.MotorType;
 
-import FtcVirtualRobots.controller.BotConfig;
+import virtual_robot.controller.BotConfig;
 
 /**
  * For internal use only. Represents a robot with four mechanum wheels, color sensor, four distance sensors,

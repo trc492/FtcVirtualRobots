@@ -6,11 +6,11 @@ import com.qualcomm.robotcore.hardware.configuration.MotorType;
 import javafx.fxml.FXML;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.transform.Rotate;
-import FtcVirtualRobots.controller.BotConfig;
-import FtcVirtualRobots.controller.VirtualBot;
-import FtcVirtualRobots.controller.VirtualRobotController;
-import FtcVirtualRobots.util.AngleUtils;
-import FtcVirtualRobots.util.Vector2D;
+import virtual_robot.controller.BotConfig;
+import virtual_robot.controller.VirtualBot;
+import virtual_robot.controller.VirtualRobotController;
+import virtual_robot.util.AngleUtils;
+import virtual_robot.util.Vector2D;
 
 /**
  * For internal use only. Represents a robot with four mechanum wheels, color sensor, four distance sensors,

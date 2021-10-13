@@ -20,9 +20,9 @@ import javafx.scene.shape.Rectangle;
 import javafx.scene.transform.Rotate;
 import javafx.scene.transform.Scale;
 import javafx.scene.transform.Translate;
-import FtcVirtualRobots.controller.BotConfig;
-import FtcVirtualRobots.controller.VirtualBot;
-import FtcVirtualRobots.util.AngleUtils;
+import virtual_robot.controller.BotConfig;
+import virtual_robot.controller.VirtualBot;
+import virtual_robot.util.AngleUtils;
 
 /**
  * For internal use only. Represents a robot with two standard wheels, color sensor, four distance sensors,

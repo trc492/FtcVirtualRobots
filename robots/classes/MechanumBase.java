@@ -6,9 +6,9 @@ import com.qualcomm.robotcore.hardware.DcMotorExImpl;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.configuration.MotorType;
 
-import FtcVirtualRobots.controller.VirtualBot;
-import FtcVirtualRobots.controller.VirtualRobotController;
-import FtcVirtualRobots.util.AngleUtils;
+import virtual_robot.controller.VirtualBot;
+import virtual_robot.controller.VirtualRobotController;
+import virtual_robot.util.AngleUtils;
 
 /**
  * For internal use only. Represents a robot with four mechanum wheels, color sensor, four distance sensors,
